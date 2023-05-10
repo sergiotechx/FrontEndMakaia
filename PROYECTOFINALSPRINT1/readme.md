@@ -8,6 +8,7 @@
 El usuario tipo 1 es el admin del sistema
 
 **Modo de ejecución** node main
-Al inicio se cargan automáticamente los usuarios del cajero, no hay que ingresarlos.
+
+Al inicio se cargan automáticamente los usuarios del cajero contenidos en el archivo db.json, no hay que ingresarlos.
 
 Programa que va por el happy path, sólo con fines ilustrativos
