@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "maka",
+        "documento": "123456",
+        "clave": "ia",
+        "tipo": "1"
+    },
+    {
+        "nombre": "pepe le pu",
+        "documento": "0",
+        "clave": "0",
+        "tipo": "2"
+    },
+    {
+        "nombre": "Maria la del barrio",
+        "documento": "111111",
+        "clave": "111111",
+        "tipo": "2"
+    },
+    {
+        "nombre": "Mr anderson",
+        "documento": "222222",
+        "clave": "222222",
+        "tipo": "2"
+    },
+    {
+        "nombre": "Emilio Corredor",
+        "documento": "333333",
+        "clave": "333333",
+        "tipo": "2"
+    }
+]
